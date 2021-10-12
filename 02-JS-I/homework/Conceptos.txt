@@ -1,6 +1,6 @@
 Conceptos:
 
-    * Variables: se define con un nombre y se utilizan para almacenar un valor el cual puede cambiar (var) o no (let, const).
+    * Variables: se define con un nombre y se utilizan para almacenar un valor el cual puede cambiar (var, let) o no (const).
 
     * Strings: son bloques de textos, formado por caracteres alfanumericos. Se definen entre comillas.
 
