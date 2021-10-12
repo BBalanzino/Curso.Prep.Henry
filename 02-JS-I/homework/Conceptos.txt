@@ -1,0 +1,14 @@
+Conceptos:
+
+    * Variables: se define con un nombre y se utilizan para almacenar un valor el cual puede cambiar (var) o no (let, const).
+
+    * Strings: son bloques de textos, formado por caracteres alfanumericos. Se definen entre comillas.
+
+    * Funciones: se utilizan para definir un conjunto de instrucciones, las cuales podemos reutilizar en el codigo con solo llamar dicha funcion.
+
+        -Argumentos: son los valores que le designamos a una funcion.
+
+        -Return: se utiliza para que la funcion nos devuelva el resulado.
+    * Declaraciones if: estructura de control condicional, se utiliza para evaluar y tomar decisiones comparandolas.
+
+    * Valores booleanos: son condiciones (afirmaciones), estas pueden ser 'true' (verdadero) o 'false' (falso).
